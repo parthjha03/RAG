@@ -18,4 +18,4 @@ PyPDF2
 python-docx
 python-pptx
 tiktoken
-supabase-py
+supabase
